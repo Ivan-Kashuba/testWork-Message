@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #b1b1b2;
+}
+.App {
+  background-color: #000;
+  min-height: 100vh;
+}
+.send {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+}

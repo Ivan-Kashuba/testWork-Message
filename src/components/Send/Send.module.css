@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+}
+
+.input {
+  margin: 0 auto;
+  padding: 0 16px;
+  background-color: #252525;
+  border: none;
+  width: 100%;
+  height: 74px;
+  border-radius: 15px;
+  line-height: 21;
+  font-size: 18px;
+}
+
+.button {
+  position: absolute;
+  right: 2%;
+  top: 25px;
+  cursor: pointer;
+}
