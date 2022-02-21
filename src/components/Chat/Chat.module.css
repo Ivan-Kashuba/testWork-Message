@@ -10,6 +10,8 @@
   padding: 12px 50px 21px 12px;
   margin-bottom: 17px;
   position: relative;
+  display: inline-block;
+  float: right;
 }
 .itemText {
   font-size: 58px;
